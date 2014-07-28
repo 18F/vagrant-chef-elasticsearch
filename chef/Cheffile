@@ -1,0 +1,5 @@
+site "http://community.opscode.com/api/v1"
+
+cookbook 'apt', git: 'https://github.com/opscode-cookbooks/apt'
+cookbook 'java', git: 'https://github.com/agileorbit-cookbooks/java'
+cookbook 'elasticsearch', git: 'https://github.com/elasticsearch/cookbook-elasticsearch'

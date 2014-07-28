@@ -1,0 +1,7 @@
+*.lock
+chef/cookbooks/*
+chef/tmp
+
+.vagrant
+
+.DS_Store
